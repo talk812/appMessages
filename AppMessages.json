@@ -1,12 +1,12 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-07-13",
   "messages": [
     {
       "id": "welcome-ig",
       "title": "追蹤 Kwhit IG",
       "body": "最新充電小技巧、App 更新與使用心得都會放在這裡，歡迎追蹤。",
-      "url": "https://instagram.com/kwhit.app",
+      "url": "https://www.instagram.com/kwhit.social",
       "publishedAt": "2026-07-13T00:00:00Z",
       "pinned": true
     },
