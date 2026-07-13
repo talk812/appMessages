@@ -22,7 +22,7 @@
       "imageName": "AppMessageWelcomeIG",
       "publishedAt": "2026-07-13T00:00:00Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "rate-app",
