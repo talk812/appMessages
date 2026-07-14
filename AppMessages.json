@@ -3,17 +3,6 @@
   "updatedAt": "2026-07-13",
   "messages": [
     {
-      "id": "20260713-share-report-ig",
-      "title": "分享你的充電月報",
-      "body": "把本月充電摘要傳到 IG Story 或貼文，記得標記 #kwhit，讓更多車主看到你的用電節奏。",
-      "url": "",
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20260713-share-report-ig.jpg",
-      "imageName": null,
-      "publishedAt": "2026-07-13T07:02:17Z",
-      "pinned": true,
-      "popup": true
-    },
-    {
       "id": "welcome-ig-v2",
       "title": "追蹤 Kwhit IG",
       "body": "最新充電小技巧、App 更新與使用心得都會放在這裡，歡迎追蹤。",
@@ -21,8 +10,8 @@
       "imageURL": "https://pub-c72794b2a78143059ae6a695b4546361.r2.dev/images/C4D13411-AD90-417C-A6A1-7E3E89054019.PNG",
       "imageName": "AppMessageWelcomeIG",
       "publishedAt": "2026-07-13T00:00:00Z",
-      "pinned": false,
-      "popup": false
+      "pinned": true,
+      "popup": true
     },
     {
       "id": "rate-app",
