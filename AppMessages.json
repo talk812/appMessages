@@ -1,7 +1,18 @@
 {
-  "version": 5,
-  "updatedAt": "2026-07-13",
+  "version": 6,
+  "updatedAt": "2026-07-14",
   "messages": [
+    {
+      "id": "20260714-share-import-wip",
+      "title": "抱歉　正在處理中",
+      "body": "已發現「分享截圖進 Kwhit」可能被首頁推播卡住，正在盡快修復，造成不便請多多包涵。",
+      "url": null,
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20260714-share-import-wip.jpg",
+      "imageName": null,
+      "publishedAt": "2026-07-14T01:48:49Z",
+      "pinned": true,
+      "popup": true
+    },
     {
       "id": "welcome-ig-v2",
       "title": "追蹤 Kwhit IG",
@@ -10,8 +21,8 @@
       "imageURL": "https://pub-c72794b2a78143059ae6a695b4546361.r2.dev/images/C4D13411-AD90-417C-A6A1-7E3E89054019.PNG",
       "imageName": "AppMessageWelcomeIG",
       "publishedAt": "2026-07-13T00:00:00Z",
-      "pinned": true,
-      "popup": true
+      "pinned": false,
+      "popup": false
     },
     {
       "id": "rate-app",
@@ -32,6 +43,17 @@
       "imageURL": null,
       "imageName": null,
       "publishedAt": "2026-07-13T00:00:00Z",
+      "pinned": false,
+      "popup": false
+    },
+    {
+      "id": "20260713-share-report-ig",
+      "title": "分享你的充電月報",
+      "body": "把本月充電摘要傳到 IG Story 或貼文，記得標記 #kwhit，讓更多車主看到你的用電節奏。",
+      "url": "https://www.instagram.com/kwhit.social",
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20260713-share-report-ig.jpg",
+      "imageName": null,
+      "publishedAt": "2026-07-13T07:02:17Z",
       "pinned": false,
       "popup": false
     }
