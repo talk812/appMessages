@@ -1,7 +1,18 @@
 {
-  "version": 6,
+  "version": 7,
   "updatedAt": "2026-07-14",
   "messages": [
+    {
+      "id": "20260715-price-change",
+      "title": "優惠倒數",
+      "body": "感謝第一批支持 Kwhit 的車友。在 7/31 前完成年訂的使用者，只要持續訂閱，將永久保留 NT$290 的年費價格。8/1 起新價格將調整為：月 NT$60/ 年 NT$490",
+      "url": null,
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/price-change.png",
+      "imageName": null,
+      "publishedAt": "2026-07-15T01:48:49Z",
+      "pinned": true,
+      "popup": true
+    },
     {
       "id": "20260714-share-import-wip",
       "title": "抱歉　正在處理中",
@@ -10,8 +21,8 @@
       "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20260714-share-import-wip.jpg",
       "imageName": null,
       "publishedAt": "2026-07-14T01:48:49Z",
-      "pinned": true,
-      "popup": true
+      "pinned": false,
+      "popup": false
     },
     {
       "id": "welcome-ig-v2",
