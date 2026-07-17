@@ -14,17 +14,6 @@
       "popup": true
     },
     {
-      "id": "20260714-share-import-wip",
-      "title": "抱歉　正在處理中",
-      "body": "已發現「分享截圖進 Kwhit」可能被首頁推播卡住，正在盡快修復，造成不便請多多包涵。",
-      "url": null,
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20260714-share-import-wip.jpg",
-      "imageName": null,
-      "publishedAt": "2026-07-14T01:48:49Z",
-      "pinned": false,
-      "popup": false
-    },
-    {
       "id": "welcome-ig-v2",
       "title": "追蹤 Kwhit IG",
       "body": "最新充電小技巧、App 更新與使用心得都會放在這裡，歡迎追蹤。",
