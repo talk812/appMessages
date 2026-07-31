@@ -3,17 +3,6 @@
   "updatedAt": "2026-07-14",
   "messages": [
     {
-      "id": "20260715-price-change",
-      "title": "優惠倒數",
-      "body": "感謝第一批支持 Kwhit 的車友。在 7/31 前完成年訂的使用者，只要持續訂閱，將永久保留 NT$290 的年費價格。8/1 起新價格將調整為：月 NT$60/ 年 NT$490",
-      "url": null,
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/price-change.png",
-      "imageName": null,
-      "publishedAt": "2026-07-15T01:48:49Z",
-      "pinned": true,
-      "popup": true
-    },
-    {
       "id": "welcome-ig-v2",
       "title": "追蹤 Kwhit IG",
       "body": "最新充電小技巧、App 更新與使用心得都會放在這裡，歡迎追蹤。",
@@ -21,8 +10,8 @@
       "imageURL": "https://pub-c72794b2a78143059ae6a695b4546361.r2.dev/images/C4D13411-AD90-417C-A6A1-7E3E89054019.PNG",
       "imageName": "AppMessageWelcomeIG",
       "publishedAt": "2026-07-13T00:00:00Z",
-      "pinned": false,
-      "popup": false
+      "pinned": true,
+      "popup": true
     },
     {
       "id": "rate-app",
