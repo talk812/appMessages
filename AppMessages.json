@@ -35,27 +35,5 @@
       "pinned": false,
       "popup": false
     },
-    {
-      "id": "import-tip",
-      "title": "截圖匯入小提示",
-      "body": "充電結束後截一張明細畫面，在「匯入」分頁選擇照片，Kwhit 會自動辨識度數與金額。",
-      "url": null,
-      "imageURL": null,
-      "imageName": null,
-      "publishedAt": "2026-07-13T00:00:00Z",
-      "pinned": false,
-      "popup": false
-    },
-    {
-      "id": "20260713-share-report-ig",
-      "title": "分享你的充電月報",
-      "body": "把本月充電摘要傳到 IG Story 或貼文，記得標記 #kwhit，讓更多車主看到你的用電節奏。",
-      "url": "https://www.instagram.com/kwhit.social",
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20260713-share-report-ig.jpg",
-      "imageName": null,
-      "publishedAt": "2026-07-13T07:02:17Z",
-      "pinned": false,
-      "popup": false
-    }
   ]
 }
