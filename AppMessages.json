@@ -1,7 +1,18 @@
 {
-  "version": 7,
-  "updatedAt": "2026-07-14",
+  "version": 8,
+  "updatedAt": "2026-08-04",
   "messages": [
+    {
+      "id": "20260804-share-monthly-report",
+      "title": "分享你的充電月報",
+      "body": "分享你的 Kwhit 充電月報到社群，完成指定步驟即可獲得 Kwhit Pro 1 個月！活動至 2026/08/31。",
+      "url": "https://www.instagram.com/kwhit.social",
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/kwhitshareevent.png",
+      "imageName": null,
+      "publishedAt": "2026-08-04T00:00:00Z",
+      "pinned": true,
+      "popup": true
+    },
     {
       "id": "welcome-ig-v2",
       "title": "追蹤 Kwhit IG",
@@ -10,8 +21,8 @@
       "imageURL": "https://pub-c72794b2a78143059ae6a695b4546361.r2.dev/images/C4D13411-AD90-417C-A6A1-7E3E89054019.PNG",
       "imageName": "AppMessageWelcomeIG",
       "publishedAt": "2026-07-13T00:00:00Z",
-      "pinned": true,
-      "popup": true
+      "pinned": false,
+      "popup": false
     },
     {
       "id": "rate-app",
