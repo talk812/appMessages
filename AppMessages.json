@@ -1,15 +1,15 @@
 {
-  "version": 8,
-  "updatedAt": "2026-08-04",
+  "version": 9,
+  "updatedAt": "2026-08-10",
   "messages": [
     {
-      "id": "20260804-share-monthly-report",
-      "title": "分享你的充電月報",
-      "body": "分享你的 Kwhit 充電月報到社群，完成指定步驟即可獲得 Kwhit Pro 1 個月！活動至 2026/08/31。",
+      "id": "20260810-share-monthly-report",
+      "title": "分享月報／車主名片，送你 Kwhit Pro 一個月！⚡️",
+      "body": "把你的充電成果分享出去！分享 Kwhit 月報或車主名片到社群平台，完成活動即可獲得 Kwhit Pro 免費使用一個月。詳情請查看活動公告。活動至 2026/08/31。",
       "url": "https://www.instagram.com/kwhit.social",
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/kwhitshareevent.png",
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/imageshare.png",
       "imageName": null,
-      "publishedAt": "2026-08-04T00:00:00Z",
+      "publishedAt": "2026-08-10T00:00:00Z",
       "pinned": true,
       "popup": true
     },
