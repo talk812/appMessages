@@ -1,4 +1,12 @@
 {
+  "versionTour": {
+  "latestVersion": "1.7",
+  "title": "Kwhit 有新版本囉",
+  "slides": [
+    { "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/imageshare.png", "caption": "功能說明 1" },
+    { "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/imageshare.png", "caption": "功能說明 2" }
+  ]
+},
   "version": 9,
   "updatedAt": "2026-08-10",
   "messages": [
