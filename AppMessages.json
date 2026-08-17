@@ -1,12 +1,34 @@
 {
   "versionTour": {
-  "latestVersion": "1.7",
-  "title": "Kwhit 有新版本囉",
-  "slides": [
-    { "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/imageshare.png", "caption": "功能說明 1" },
-    { "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/imageshare.png", "caption": "功能說明 2" }
-  ]
-},
+    "latestVersion": "1.7",
+    "title": "Kwhit 有新版本囉",
+    "slides": [
+      {
+        "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/IMG_5797-annotated.png",
+        "caption": "AI 洞察上到最上面，內容更豐富，還有洞察日誌與全新本月摘要"
+      },
+      {
+        "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/IMG_5800-annotated.png",
+        "caption": "每公里成本一眼看懂，本年支出與充電／養車月月分"
+      },
+      {
+        "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/IMG_5801-annotated.png",
+        "caption": "常去站點排行，一眼看出比均價貴還是便宜"
+      },
+      {
+        "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/IMG_5802-annotated.png",
+        "caption": "充電足跡地圖，站點自動對上，常去哪一目了然"
+      },
+      {
+        "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/IMG_5799-annotated.png",
+        "caption": "持有天數與里程、成就進度，還有生涯里程碑"
+      },
+      {
+        "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/IMG_5798-annotated.png",
+        "caption": "這趟跑多遠、每公里多少，里程電量一起記"
+      }
+    ]
+  },
   "version": 10,
   "updatedAt": "2026-08-10",
   "messages": [
