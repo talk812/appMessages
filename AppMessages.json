@@ -7,7 +7,7 @@
     { "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/imageshare.png", "caption": "功能說明 2" }
   ]
 },
-  "version": 9,
+  "version": 10,
   "updatedAt": "2026-08-10",
   "messages": [
     {
@@ -42,6 +42,6 @@
       "publishedAt": "2026-07-13T00:00:00Z",
       "pinned": false,
       "popup": false
-    },
+    }
   ]
 }
