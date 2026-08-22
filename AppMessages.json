@@ -1,9 +1,9 @@
 {
   "versionTour": {
-    "latestVersion": "1.7.1",
-    "title": "Kwhit 1.7.1 新功能",
-    "content": "• 報表可改看當月、近 3／6／12 個月、今年或自訂區間\n• 優化充電截圖辨識\n• 優化App效能，切換頁面也比較順\n• 修復異常Bug"
-  },
+  "latestVersion": "1.7.2",
+  "title": "Kwhit 1.7.2 更新",
+  "content": "• 開啟 App、瀏覽充電紀錄更順暢\n• 免費額度用完時，升級引導更清楚\n• 點推播即可複製優惠碼並兌換\n• 截圖辨識與整體穩定度再優化"
+},
   "version": 13,
   "updatedAt": "2026-08-20",
   "messages": [
