@@ -8,17 +8,6 @@
   "updatedAt": "2026-08-20",
   "messages": [
     {
-      "id": "20260810-share-monthly-report",
-      "title": "分享月報／車主名片，送你 Kwhit Pro 一個月！⚡️",
-      "body": "把你的充電成果分享出去！分享 Kwhit 月報或車主名片到社群平台，完成活動即可獲得 Kwhit Pro 免費使用一個月。詳情請查看活動公告。活動至 2026/08/31。",
-      "url": "https://www.instagram.com/kwhit.social",
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/imageshare.png",
-      "imageName": null,
-      "publishedAt": "2026-08-10T00:00:00Z",
-      "pinned": false,
-      "popup": false
-    },
-    {
       "id": "welcome-ig-v2",
       "title": "追蹤 Kwhit IG",
       "body": "最新充電小技巧、App 更新與使用心得都會放在這裡，歡迎追蹤。",
