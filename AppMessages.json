@@ -1,11 +1,11 @@
 {
- "versionTour": {
-    "latestVersion": "1.8",
-    "title": "Kwhit 1.8 新功能",
-    "content": "• 附近充電：依定位找站，參考社群電價，並推薦適合你的充電站\n• 區分 AC／DC：洞察與報表改同類型比較，也可手動指定充電類型\n• 里程打錯可修正，成就櫃會標示新解鎖\n• 充電詳情補上每度公里，報表與分享體驗更清楚\n• 分享時可直接預覽報表"
+  "versionTour": {
+    "latestVersion": "1.8.1",
+    "title": "Kwhit 1.8.1 更新",
+    "content": "• 選站改點開挑選、地名排序更準\n• 手打／開拓站名會對成正式名稱，不被殘留地名誤配\n• 優化 OCR 辨識率\n• 修復分享預覽左右滑動卡頓\n• 養車支出成就補上銀階（25 筆）"
   },
-  "version": 13,
-  "updatedAt": "2026-08-20",
+  "version": 15,
+  "updatedAt": "2026-09-01",
   "messages": [
     {
       "id": "welcome-ig-v2",
