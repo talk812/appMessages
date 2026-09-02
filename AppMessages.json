@@ -1,11 +1,11 @@
 {
   "versionTour": {
-    "latestVersion": "1.8.3",
-    "title": "Kwhit 1.8.3 更新",
-    "content": "• 修復啟動時的卡頓，開啟 App 更順暢\n• 報表充電摘要改版：花費／里程分區，支援等效或實際里程、每度 km\n• 均價改為整體加權，與成本分析一致\n• 充電詳情更快、地圖定位修正；窄螢幕排版改善\n• 少數情況若仍不順，我們已在處理，下一版會再收"
+    "latestVersion": "1.8.4",
+    "title": "Kwhit 1.8.4 更新",
+    "content": "• 優化整體流暢度，啟動、翻頁與日常操作都更跟手\n• 切到其他 App 再回來時更即時，比較不會卡住或停頓"
   },
-  "version": 17,
-  "updatedAt": "2026-09-02",
+  "version": 18,
+  "updatedAt": "2026-09-03",
   "messages": [
     {
       "id": "welcome-ig-v2",
