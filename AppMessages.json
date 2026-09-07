@@ -1,11 +1,11 @@
 {
   "versionTour": {
-    "latestVersion": "1.8.4",
-    "title": "Kwhit 1.8.4 更新",
-    "content": "• 優化整體流暢度，啟動、翻頁與日常操作都更順手\n• 切到其他 App 再回來時更即時，比較不會卡住或停頓"
+    "latestVersion": "1.8.5",
+    "title": "Kwhit 1.8.5 更新",
+    "content": "• 大量充電紀錄時更順暢，減少卡頓\n• 修正截圖匯入時畫面卡住、無法滑動\n• 站點對應更即時，對應後列表會更新，也可稍後再選；搜尋時若已辨識充電商會預填品牌\n• 修正「記養車支出」底部按鈕跑版\n• 優化 OCR 辨識率"
   },
-  "version": 19,
-  "updatedAt": "2026-09-03",
+  "version": 20,
+  "updatedAt": "2026-09-08",
   "messages": [
     {
       "id": "welcome-ig-v2",
