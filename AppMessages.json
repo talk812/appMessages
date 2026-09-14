@@ -4,9 +4,20 @@
     "title": "Kwhit 1.8.6 更新",
     "content": "• 修正確認紀錄頁取消／儲存關不掉，避免卡住或重複儲存\n• 選站搜尋時顯示搜尋中動畫\n• 新增站點可選公開送審或私人僅本機；私人站不送審、不上傳"
   },
-  "version": 21,
-  "updatedAt": "2026-09-11",
+  "version": 22,
+  "updatedAt": "2026-09-14",
   "messages": [
+    {
+      "id": "20260914-android-beta",
+      "title": "Android 封閉測試徵求",
+      "body": "若有朋友也是電動車主且使用 Android，或你有閑置的 Android 手機，都歡迎一起幫忙做 14 天封閉測試。測試完成會有對應福利贈與，感謝願意幫忙的你。",
+      "url": null,
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20260914-android-beta.jpg",
+      "imageName": null,
+      "publishedAt": "2026-09-14T03:12:53Z",
+      "pinned": false,
+      "popup": true
+    },
     {
       "id": "welcome-ig-v2",
       "title": "追蹤 Kwhit IG",
