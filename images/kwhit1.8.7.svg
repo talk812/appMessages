@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7FCF8"/>
+      <stop offset="1" stop-color="#E6F6EC"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B7544"/>
+      <stop offset="1" stop-color="#34C47A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <circle cx="1060" cy="170" r="300" fill="#BDEBCF" opacity=".5"/>
+  <circle cx="80" cy="1460" r="320" fill="#CDEFD9" opacity=".55"/>
+  <rect x="76" y="74" width="1048" height="1452" rx="52" fill="#FFFFFF" opacity=".72"/>
+  <path d="M118 286 C280 202 434 218 565 298 C707 384 856 394 1082 267" fill="none" stroke="#D7F1E1" stroke-width="26" stroke-linecap="round"/>
+  <!-- Kwhit wordmark -->
+  <rect x="132" y="136" width="80" height="80" rx="20" fill="url(#green)"/>
+  <path d="M178 151 L151 184 H170 L165 205 L193 170 H174 Z" fill="#FFFFFF"/>
+  <text x="232" y="198" fill="#10241A" font-family="Arial Rounded MT Bold, PingFang TC, sans-serif" font-size="64" font-weight="800">Kwhit</text>
+  <text x="132" y="568" fill="#10241A" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="102" font-weight="800">1.8.7</text>
+  <text x="132" y="696" fill="#10241A" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="82" font-weight="800">即將登場</text>
+  <rect x="132" y="766" width="134" height="10" rx="5" fill="url(#green)"/>
+  <text x="132" y="888" fill="#52705E" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="40" font-weight="500">啟動、儲存、辨識更順；選站搜尋更直覺</text>
+  <text x="132" y="954" fill="#52705E" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="40" font-weight="500">全新辨識動畫，完成後直接確認紀錄</text>
+  <text x="132" y="1020" fill="#52705E" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="40" font-weight="500">Kwhit 目前最流暢的版本</text>
+  <line x1="132" y1="1240" x2="1068" y2="1240" stroke="#C9E8D4" stroke-width="3"/>
+  <circle cx="153" cy="1325" r="10" fill="#2EBF72"/>
+  <text x="181" y="1339" fill="#315845" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="40" font-weight="650">審查通過後，正式上線</text>
+  <text x="132" y="1450" fill="#769384" font-family="PingFang TC, Noto Sans TC, sans-serif" font-size="32" font-weight="500">充電記帳，剛剛好。</text>
+</svg>
