@@ -4,7 +4,7 @@
     "title": "Kwhit 1.8.6 更新",
     "content": "• 修正確認紀錄頁取消／儲存關不掉，避免卡住或重複儲存\n• 選站搜尋時顯示搜尋中動畫\n• 新增站點可選公開送審或私人僅本機；私人站不送審、不上傳"
   },
-  "version": 23,
+  "version": 24,
   "updatedAt": "2026-09-15",
   "messages": [
     {
@@ -12,7 +12,7 @@
       "title": "1.8.7 即將登場",
       "body": "啟動、儲存、辨識更順，選擇與搜尋站點更直覺。全新辨識動畫，完成後直接確認紀錄。1.8.7 即將上線，這會是 Kwhit 目前最流暢的版本。",
       "url": null,
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/kwhit1.8.7.svg",
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/kwhit1.8.7.png",
       "imageName": null,
       "publishedAt": "2026-09-15T15:12:53Z",
       "pinned": false,
