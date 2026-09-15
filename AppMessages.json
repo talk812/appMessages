@@ -8,6 +8,17 @@
   "updatedAt": "2026-09-14",
   "messages": [
     {
+      "id": "20260915-1.8.7",
+      "title": "1.8.7 即將登場",
+      "body": "啟動、儲存、辨識更順，選擇與搜尋站點更直覺。全新辨識動畫，完成後直接確認紀錄。1.8.7 即將上線，這會是 Kwhit 目前最流暢的版本。",
+      "url": null,
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/kwhit1.8.7.svg",
+      "imageName": null,
+      "publishedAt": "2026-09-15T15:12:53Z",
+      "pinned": false,
+      "popup": true
+    },
+    {
       "id": "20260914-android-beta",
       "title": "Android 封閉測試徵求",
       "body": "若有朋友也是電動車主且使用 Android，或你有閑置的 Android 手機，都歡迎一起幫忙做 14 天封閉測試。測試完成會有對應福利贈與，感謝願意幫忙的你。",
