@@ -4,9 +4,20 @@
     "title": "Kwhit 1.8.8 更新",
     "content": "• 開拓站審核結果進「我的通知」，可選本機推播提醒\n• 通過後自動對齊目錄；點通知先看詳情再決定是否開相關紀錄\n• 未通過依原因給下一步（再送審、重複站改綁、改私人站等）\n• 紀錄列表用分色標籤顯示待審核／送審失敗／未通過\n• 截圖辨識更穩（Tesla／Tail／U-Power 等），並減少剛存紀錄被蓋掉"
   },
-  "version": 29,
-  "updatedAt": "2026-09-22",
+  "version": 30,
+  "updatedAt": "2026-09-23",
   "messages": [
+    {
+      "id": "20260923-threads-updates",
+      "title": "資料更新說明",
+      "body": "站點、充電商、車款之後改在 Threads 發布，方便你一次看完最新資訊。若缺資料或異常，也歡迎留言告訴我們。",
+      "url": "https://www.threads.net/@kwhit.social",
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20260923-threads-updates.jpg",
+      "imageName": null,
+      "publishedAt": "2026-09-23T03:26:50Z",
+      "pinned": false,
+      "popup": true
+    },
     {
       "id": "20260922-share-import",
       "title": "分享照片就能記帳",
