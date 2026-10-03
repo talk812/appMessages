@@ -4,21 +4,10 @@
   "versionTour": {
     "latestVersion": "1.0.0",
     "title": "歡迎使用 Kwhit Android",
-    "content": "• 正式上架 Google Play，充電紀錄、站點地圖與報表都能用\n• 截圖辨識記帳：選圖後交叉檢查欄位，確認更快\n• 個人中心會員頁可輸入優惠碼 GOANDROID，首年折價 100 元（至 10 月底）\n• 資料與訂閱目前與 iOS 分開；可用匯出／匯入自行搬家",
-    "storeURL": "https://play.google.com/store/apps/details?id=com.dmbm.kwhit"
+    "content": "慶祝Android正式登陸GooglePlay，年訂閱首年特價390原價490，只到十月底喔。 ",
+    "storeURL": ""
   },
   "messages": [
-    {
-      "id": "20261003-android-play",
-      "title": "慶祝 Android 上架",
-      "body": "慶祝 Android 正式上架 Google Play。即日起至 10 月底，到個人中心 → 會員輸入優惠碼 GOANDROID，首年折價 100 元。",
-      "url": "https://play.google.com/store/apps/details?id=com.dmbm.kwhit",
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261003-android-play.jpg",
-      "imageName": null,
-      "publishedAt": "2026-10-03T09:03:31Z",
-      "pinned": true,
-      "popup": true
-    },
     {
       "id": "20260923-threads-updates",
       "title": "資料更新說明",
