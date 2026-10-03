@@ -1,20 +1,20 @@
 {
   "versionTour": {
-    "latestVersion": "1.9.1",
-    "title": "Kwhit 1.9.1 更新",
-    "content": "• 充電摘錄支援暗黑模式，顏色更貼近 App\n• 私人站點可搜尋、編輯，附近私人站選站時更明顯\n• 充電紀錄可填購券成本，每度電價更接近真實花費\n• 修正月初充電頻率／花費與上月比較容易失真\n• 營運商目錄新增日月亭等更新"
+    "latestVersion": "1.9",
+    "title": "Kwhit 1.9 更新",
+    "content": "• 找充電站支援沿線規劃；Pro 依真實繞路推薦這趟適合的站\n• 站點可看設施參考並篩 DC／槍數（非即時空位）\n• 全新充電摘錄：圈選、封面、分享，還能事後調整範圍\n• 個人中心充電足跡一次看生涯、成本、地圖與摘錄\n• 優化充電截圖辨識\n• 新增合作夥伴區塊"
   },
-  "version": 36,
-  "updatedAt": "2026-10-04",
+  "version": 35,
+  "updatedAt": "2026-10-03",
   "messages": [
     {
       "id": "20261003-android-play",
       "title": "慶祝 Android 上架",
       "body": "慶祝 Android 正式上架 Google Play。即日起至 10 月底，到個人中心 → 會員輸入優惠碼 GOANDROID，首年折價 100 元。",
-      "url": "https://play.google.com/store/apps/details?id=com.dmbm.kwhit",
+      "url": "",
       "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261003-android-play.jpg",
       "imageName": null,
-      "publishedAt": "2026-10-03T09:03:31Z",
+      "publishedAt": "2026-10-03T09:15:31Z",
       "pinned": true,
       "popup": true
     },
@@ -27,7 +27,7 @@
       "imageName": null,
       "publishedAt": "2026-09-23T03:26:50Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20260922-share-import",
@@ -38,7 +38,7 @@
       "imageName": null,
       "publishedAt": "2026-09-22T03:52:44Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20260921-community-stats",
