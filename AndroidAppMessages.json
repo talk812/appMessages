@@ -22,7 +22,7 @@
       "imageName": null,
       "publishedAt": "2026-09-23T03:26:50Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20260922-share-import",
@@ -33,7 +33,7 @@
       "imageName": null,
       "publishedAt": "2026-09-22T03:52:44Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20260921-community-stats",
