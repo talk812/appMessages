@@ -1,7 +1,18 @@
 {
-  "version": 3,
-  "updatedAt": "2026-10-04",
+  "version": 4,
+  "updatedAt": "2026-10-05",
   "messages": [
+    {
+      "id": "20261005-launch-discount",
+      "title": "上架優惠只到月底",
+      "body": "慶祝 Android 上架：年訂原價 $490，首年只要 $390（折 100 元）。優惠只到 10 月底，動作要快。",
+      "url": null,
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261005-launch-discount.jpg",
+      "imageName": null,
+      "publishedAt": "2026-10-05T03:18:20Z",
+      "pinned": true,
+      "popup": true
+    },
     {
       "id": "20260923-threads-updates",
       "title": "資料更新說明",
