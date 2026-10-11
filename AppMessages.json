@@ -4,9 +4,20 @@
     "title": "Kwhit 1.9.2 更新",
     "content": "• 附近站點詳情可留言、按讚，跟車友交流更方便\n• 推薦卡清楚顯示尖峰／離峰社群電價，選站更快有譜\n• 站點設施回報更完整（廁所、便利商店等），審核結果會進通知中心\n• 充電訂閱方案可看回本進度，並依效期正確計算與續記\n• 優化納智捷等截圖辨識；個人頁「支持 Kwhit」可直達官網"
   },
-  "version": 37,
-  "updatedAt": "2026-10-10",
+  "version": 38,
+  "updatedAt": "2026-10-11",
   "messages": [
+    {
+      "id": "20261011-facility-helper",
+      "title": "你是設施小幫手嗎？",
+      "body": "徵求協助回報站點設施。達成「設施幫手」銅／銀／金成就，各送一個月展期會員，最多可領三個月。請截圖成就並私訊粉絲團領取。",
+      "url": "https://www.instagram.com/kwhit.social",
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261011-facility-helper.jpg",
+      "imageName": null,
+      "publishedAt": "2026-10-11T01:27:17Z",
+      "pinned": false,
+      "popup": true
+    },
     {
       "id": "20261003-android-play",
       "title": "慶祝 Android 上架",
