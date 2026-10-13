@@ -16,7 +16,7 @@
       "imageName": null,
       "publishedAt": "2026-10-11T01:27:17Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20261003-android-play",
@@ -26,8 +26,8 @@
       "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261003-android-play.jpg",
       "imageName": null,
       "publishedAt": "2026-10-03T09:15:31Z",
-      "pinned": true,
-      "popup": true
+      "pinned": false,
+      "popup": false
     },
     {
       "id": "20260923-threads-updates",
