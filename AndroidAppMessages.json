@@ -1,11 +1,11 @@
 {
   "versionTour": {
-    "latestVersion": "1.0.3",
-    "title": "Kwhit 1.0.3 更新",
-    "content": "• 修正部分 Samsung 手機 Google 登入卡在「登入中」\n• 站點目錄改為線上更新，名稱與資料更即時\n• 升級時會清掉舊版站名快取，減少顯示過期站名"
+    "latestVersion": "1.1.2",
+    "title": "Kwhit 1.1.2 更新",
+    "content": "• Tesla 授權過期時會清楚引導重連，並說明已存的充電不會消失\n• 首頁下一站不再用過期定位推遠站，距離更準\n• 修正超充站名誤綁成目的地充電，站點比對更準\n• 首頁「全部」油省計算與車輛範圍對齊，數字更可靠"
   },
-  "version": 8,
-  "updatedAt": "2026-10-12",
+  "version": 9,
+  "updatedAt": "2026-10-19",
   "messages": [
     {
       "id": "20261011-facility-helper",
