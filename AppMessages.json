@@ -1,11 +1,11 @@
 {
   "versionTour": {
-    "latestVersion": "2.0.1",
-    "title": "Kwhit 2.0.1 更新",
-    "content": "• Tesla 授權過期時會清楚引導重連，並說明已存的充電不會消失\n• 修正超充站名誤綁成目的地充電，站點比對更準\n• 修正部分 EVOASIS 收據辨識後度數、時間空白\n• 報表匯出等小螢幕版面跑版修正，顯示更穩"
+    "latestVersion": "2.0.2",
+    "title": "Kwhit 2.0.2 更新",
+    "content": "• 首頁「下一站」出遠門自動切換，還會找附近最便宜的站\n• 站點詳情更豐富：快慢充、造訪次數、社群電價與貢獻標記\n• 打開 App 自動存入家充，不用再一筆筆確認\n• 長按刪除會先確認，刪錯可短時間復原"
   },
-  "version": 39,
-  "updatedAt": "2026-10-20",
+  "version": 40,
+  "updatedAt": "2026-10-22",
   "messages": [
     {
       "id": "20261011-facility-helper",
