@@ -4,9 +4,20 @@
     "title": "Kwhit 1.1.3 更新",
     "content": "• 首頁「下一站」出遠門自動切換，還會找附近最便宜的站\n• 站點詳情更豐富：快慢充、造訪次數、社群電價與貢獻標記\n• 打開 App 自動存入家充，不用再一筆筆確認\n• 支援 Google 雲端硬碟備份，換機更安心"
   },
-  "version": 10,
-  "updatedAt": "2026-10-21",
+  "version": 11,
+  "updatedAt": "2026-10-22",
   "messages": [
+    {
+      "id": "20261022-tesla-auto-record",
+      "title": "只連 Tesla 還不夠！",
+      "body": "Pro 會員注意！只連結 Tesla 還不會自動記錄充電喔！請到個人中心 →「Tesla 連結」，開啟「自動記錄充電」，超充直接存、家充自動估費。已經開了就不用理這則喔！",
+      "url": null,
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261022-tesla-auto-record.jpg",
+      "imageName": null,
+      "publishedAt": "2026-10-22T07:47:08Z",
+      "pinned": false,
+      "popup": true
+    },
     {
       "id": "20261011-facility-helper",
       "title": "你是設施小幫手嗎？",
@@ -16,7 +27,7 @@
       "imageName": null,
       "publishedAt": "2026-10-11T01:44:37Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20261005-launch-discount",
@@ -27,7 +38,7 @@
       "imageName": null,
       "publishedAt": "2026-10-05T03:18:20Z",
       "pinned": true,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20260923-threads-updates",
