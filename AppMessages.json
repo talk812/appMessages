@@ -1,11 +1,11 @@
 {
   "versionTour": {
-    "latestVersion": "2.0.2",
-    "title": "Kwhit 2.0.2 更新",
-    "content": "• 首頁「下一站」出遠門自動切換，還會找附近最便宜的站\n• 站點詳情更豐富：快慢充、造訪次數、社群電價與貢獻標記\n• 打開 App 自動存入家充，不用再一筆筆確認\n• 長按刪除會先確認，刪錯可短時間復原"
+    "latestVersion": "2.0.3",
+    "title": "Kwhit 2.0.3 更新",
+    "content": "• 存檔後可直接幫站點留下標籤或留言\n• Tesla 目的地充電不再蓋掉超充站資料\n• Tesla 連線更穩\n• 充電中的動態島更準確"
   },
-  "version": 41,
-  "updatedAt": "2026-10-22",
+  "version": 42,
+  "updatedAt": "2026-10-24",
   "messages": [
     {
       "id": "20261022-tesla-auto-record",
