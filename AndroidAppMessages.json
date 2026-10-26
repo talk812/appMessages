@@ -1,11 +1,6 @@
 {
-  "versionTour": {
-    "latestVersion": "1.1.4",
-    "title": "Kwhit 1.1.4 更新",
-    "content": "• 存檔後可直接幫站點留下標籤或留言\n• Tesla 目的地充電不再蓋掉超充站資料\n• Tesla 連線更穩\n• 車主名片顯示更完整"
-  },
-  "version": 12,
-  "updatedAt": "2026-10-24",
+  "version": 13,
+  "updatedAt": "2026-10-27",
   "messages": [
     {
       "id": "20261022-tesla-auto-record",
