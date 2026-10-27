@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "updatedAt": "2026-10-27",
   "messages": [
     {
@@ -90,5 +90,10 @@
       "pinned": false,
       "popup": false
     }
-  ]
+  ],
+  "versionTour": {
+    "latestVersion": "1.1.5",
+    "title": "Kwhit 1.1.5 更新",
+    "content": "• Tesla 連結頁全新設計，連結後直接接著設定自動記錄\n• 可回報站點已停止營運，充電詳情也能直接回報設施\n• Tesla 帳單依位置配對站點，同步時不再卡住\n• 車子停止回報時，充電中列會自動收起"
+  }
 }
