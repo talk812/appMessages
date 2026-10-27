@@ -1,6 +1,6 @@
 {
-  "version": 43,
-  "updatedAt": "2026-10-27",
+  "version": 44,
+  "updatedAt": "2026-10-28",
   "messages": [
     {
       "id": "20261022-tesla-auto-record",
@@ -112,5 +112,10 @@
       "pinned": false,
       "popup": false
     }
-  ]
+  ],
+  "versionTour": {
+    "latestVersion": "2.0.4",
+    "title": "Kwhit 2.0.4 更新",
+    "content": "• Tesla 連結頁全新設計，連結後直接接著設定自動記錄\n• 可回報站點已停止營運，充電詳情也能直接回報設施\n• Tesla 帳單依位置配對站點，不再蓋掉 GPS 記好的站名\n• 車子停止回報時，充電中卡片與動態島會自動收起"
+  }
 }
