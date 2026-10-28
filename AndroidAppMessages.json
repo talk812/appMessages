@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "updatedAt": "2026-10-27",
+  "version": 15,
+  "updatedAt": "2026-10-28",
   "messages": [
     {
       "id": "20261022-tesla-auto-record",
@@ -92,8 +92,8 @@
     }
   ],
   "versionTour": {
-    "latestVersion": "1.1.5",
-    "title": "Kwhit 1.1.5 更新",
-    "content": "• Tesla 連結頁全新設計，連結後直接接著設定自動記錄\n• 可回報站點已停止營運，充電詳情也能直接回報設施\n• Tesla 帳單依位置配對站點，同步時不再卡住\n• 車子停止回報時，充電中列會自動收起"
+    "latestVersion": "1.1.6",
+    "title": "Kwhit 1.1.6 更新",
+    "content": "• 可匯入 EVOASIS、Tessie 匯出的 CSV 充電紀錄\n• 紀錄列表可多選刪除，同地點的紀錄可一起綁定站點\n• 開拓站送審更穩定，網路受限時連線也更順\n• 優化站點搜尋"
   }
 }
