@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updatedAt": "2026-10-28",
+  "version": 16,
+  "updatedAt": "2026-11-01T01:10:13Z",
   "messages": [
     {
       "id": "20261022-tesla-auto-record",
@@ -22,17 +22,6 @@
       "imageName": null,
       "publishedAt": "2026-10-11T01:44:37Z",
       "pinned": false,
-      "popup": false
-    },
-    {
-      "id": "20261005-launch-discount",
-      "title": "上架優惠只到月底",
-      "body": "慶祝 Android 上架：年訂原價 $490，首年只要 $390（折 100 元）。優惠只到 10 月底，動作要快。",
-      "url": null,
-      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261005-launch-discount.jpg",
-      "imageName": null,
-      "publishedAt": "2026-10-05T03:18:20Z",
-      "pinned": true,
       "popup": false
     },
     {
