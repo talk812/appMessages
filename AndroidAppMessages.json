@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updatedAt": "2026-11-01T01:10:13Z",
+  "version": 17,
+  "updatedAt": "2026-11-01T01:11:35Z",
   "messages": [
     {
       "id": "20261022-tesla-auto-record",
@@ -11,7 +11,7 @@
       "imageName": null,
       "publishedAt": "2026-10-22T07:47:08Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20261011-facility-helper",
