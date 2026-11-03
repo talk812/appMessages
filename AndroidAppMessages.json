@@ -1,6 +1,6 @@
 {
-  "version": 17,
-  "updatedAt": "2026-11-01T01:11:35Z",
+  "version": 18,
+  "updatedAt": "2026-11-03",
   "messages": [
     {
       "id": "20261022-tesla-auto-record",
@@ -81,8 +81,8 @@
     }
   ],
   "versionTour": {
-    "latestVersion": "1.1.6",
-    "title": "Kwhit 1.1.6 更新",
-    "content": "• 可匯入 EVOASIS、Tessie 匯出的 CSV 充電紀錄\n• 紀錄列表可多選刪除，同地點的紀錄可一起綁定站點\n• 開拓站送審更穩定，網路受限時連線也更順\n• 優化站點搜尋"
+    "latestVersion": "1.2.0",
+    "title": "Kwhit 1.2.0 更新",
+    "content": "• 共同記錄：邀請家人加入，充電與花費自動同步\n• 首頁地圖：附近站點和電價一眼看到\n• 充完電比價：附近有更便宜的站會告訴你\n• 桌面小工具：常用站一鍵就到"
   }
 }
