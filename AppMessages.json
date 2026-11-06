@@ -1,6 +1,6 @@
 {
-  "version": 47,
-  "updatedAt": "2026-11-04",
+  "version": 48,
+  "updatedAt": "2026-11-07",
   "messages": [
     {
       "id": "20261022-tesla-auto-record",
@@ -92,8 +92,8 @@
     }
   ],
   "versionTour": {
-    "latestVersion": "2.1.0",
-    "title": "Kwhit 2.1.0 更新",
-    "content": "• 新增「共同記錄」，邀請家人一起記同一台車，紀錄自動同步\n• 首頁「下一站」改成附近地圖，電價直接標在站點上\n• 充完電幫你比價，太貴會推薦你付過更便宜的附近站\n• 可匯入 EVOASIS、Tessie 的 CSV，舊紀錄一次搬進來"
+    "latestVersion": "2.1.1",
+    "title": "Kwhit 2.1.1 更新",
+    "content": "• 「我的充電地圖」充過的站點與造訪統計，集中查看。\n• 「車輛與續航」更新里程、記錄續航，操作更順手。\n• 「報表計算選項」自行選擇電價是否包含方案費用。"
   }
 }
