@@ -1,7 +1,18 @@
 {
-  "version": 49,
-  "updatedAt": "2026-11-14",
+  "version": 50,
+  "updatedAt": "2026-11-17",
   "messages": [
+    {
+      "id": "20261117-screenshot-guide",
+      "title": "截圖記帳，截這一頁最準",
+      "body": "各家充電 App 的明細頁長得不一樣。我們整理了 Tesla、U-POWER、EVOASIS、EVALUE、星舟快充、特爾電力、電小二、evbar、蝦趴該截哪一頁、對準哪些欄位，截完分享給 Kwhit，時間、度數和金額就自動帶入。點這則看完整教學。",
+      "url": "https://kwhit.app/screenshot-guide",
+      "imageURL": null,
+      "imageName": null,
+      "publishedAt": "2026-11-17T02:07:56Z",
+      "pinned": false,
+      "popup": true
+    },
     {
       "id": "20261022-tesla-auto-record",
       "title": "只連 Tesla 還不夠！",
