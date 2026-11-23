@@ -1,7 +1,18 @@
 {
-  "version": 22,
-  "updatedAt": "2026-11-17",
+  "version": 23,
+  "updatedAt": "2026-11-23",
   "messages": [
+    {
+      "id": "20261123-station-comments",
+      "title": "充電站的小撇步",
+      "body": "App 裡的站點留言開放一個多月，已經有 112 位 Kwhit 車友在 182 座站留下 225 則留言。\n\n最常見的一句是「好充」，但更有用的是只有到過現場才知道的事：\n📍 嘉義交流道 U-Power\n　　💬 好充，旁邊還有雞肉飯\n📍 埔里日月町\n　　💬 先右轉再迴轉比較好進\n📍 新店央北超級綠洲\n　　💬 上午螢幕看不清楚\n\n去過的話，到附近充電的站點頁留一句，下一位就能少踩一次坑。",
+      "url": null,
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261123-station-comments.jpg",
+      "imageName": null,
+      "publishedAt": "2026-11-23T03:59:20Z",
+      "pinned": false,
+      "popup": true
+    },
     {
       "id": "20261117-screenshot-guide",
       "title": "截圖記帳，截這一頁最準",
@@ -11,7 +22,7 @@
       "imageName": null,
       "publishedAt": "2026-11-17T02:07:56Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20261022-tesla-auto-record",
