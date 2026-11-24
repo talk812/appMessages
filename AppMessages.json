@@ -1,6 +1,6 @@
 {
-  "version": 51,
-  "updatedAt": "2026-11-23",
+  "version": 52,
+  "updatedAt": "2026-11-25",
   "messages": [
     {
       "id": "20261123-station-comments",
@@ -11,7 +11,7 @@
       "imageName": null,
       "publishedAt": "2026-11-23T03:59:20Z",
       "pinned": false,
-      "popup": true
+      "popup": false
     },
     {
       "id": "20261117-screenshot-guide",
@@ -114,8 +114,18 @@
     }
   ],
   "versionTour": {
-    "latestVersion": "2.2.0",
-    "title": "Kwhit 2.2.0 更新",
-    "content": "• Apple Watch 首頁改版，充電進度可在智慧型疊放查看\n• 紀錄新增帳單度數與充電損耗，月報也能一起看\n• AI 洞察改版，有圖表，還能和同車款車主比較\n• 附近站點看得出參考價、付過價錢和充過次數\n• 手動記一筆改成三步驟，度數、單價、金額任填兩個就自動算；截圖確認會先給最相符的站，業者跟著走"
+    "latestVersion": "2.2.1",
+    "title": "Kwhit 2.2.1 更新",
+    "content": "• 新增日文介面，支援日圓和日本充電站\n• 附近地圖可放大全螢幕，移動就能搜尋這一區\n• 動態島顯示充電功率和預估完成時間\n• 首次匯入有截圖教學，辨識更多業者",
+    "titleI18n": {
+      "zh": "Kwhit 2.2.1 更新",
+      "en": "What's new in Kwhit 2.2.1",
+      "ja": "Kwhit 2.2.1 の新機能"
+    },
+    "contentI18n": {
+      "zh": "• 新增日文介面，支援日圓和日本充電站\n• 附近地圖可放大全螢幕，移動就能搜尋這一區\n• 動態島顯示充電功率和預估完成時間\n• 首次匯入有截圖教學，辨識更多業者",
+      "en": "• Japanese, with yen and stations in Japan\n• Full-screen nearby map, search as you move\n• Charging power and finish time on Dynamic Island\n• Screenshot guide for first import, more operators",
+      "ja": "• 日本語に対応。円表示と日本の充電スポットも\n• 周辺マップを全画面に。動かすとそのエリアを検索\n• Dynamic Island に充電出力と完了予定時刻\n• 初回取り込みのガイドを追加。対応事業者も拡大"
+    }
   }
 }
