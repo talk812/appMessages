@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "updatedAt": "2026-11-25",
   "messages": [
     {
@@ -11,7 +11,12 @@
       "imageName": null,
       "publishedAt": "2026-11-23T03:59:20Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     },
     {
       "id": "20261117-screenshot-guide",
@@ -22,7 +27,12 @@
       "imageName": null,
       "publishedAt": "2026-11-17T02:07:56Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     },
     {
       "id": "20261022-tesla-auto-record",
@@ -33,7 +43,12 @@
       "imageName": null,
       "publishedAt": "2026-10-22T07:47:08Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     },
     {
       "id": "20261011-facility-helper",
@@ -44,7 +59,12 @@
       "imageName": null,
       "publishedAt": "2026-10-11T01:44:37Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     },
     {
       "id": "20260923-threads-updates",
@@ -55,7 +75,12 @@
       "imageName": null,
       "publishedAt": "2026-09-23T03:26:50Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     },
     {
       "id": "20260922-share-import",
@@ -66,7 +91,12 @@
       "imageName": null,
       "publishedAt": "2026-09-22T03:52:44Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     },
     {
       "id": "20260921-community-stats",
@@ -77,7 +107,12 @@
       "imageName": null,
       "publishedAt": "2026-09-21T03:16:40Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     },
     {
       "id": "welcome-ig-v2",
@@ -88,7 +123,12 @@
       "imageName": null,
       "publishedAt": "2026-07-13T00:00:00Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     },
     {
       "id": "rate-app-android",
@@ -99,7 +139,12 @@
       "imageName": null,
       "publishedAt": "2026-07-13T00:00:00Z",
       "pinned": false,
-      "popup": false
+      "popup": false,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
     }
   ],
   "versionTour": {
