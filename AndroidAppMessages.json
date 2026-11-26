@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "updatedAt": "2026-11-25",
   "messages": [
     {
@@ -16,6 +16,16 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "充電站的小撇步",
+        "en": "Tips from fellow drivers",
+        "ja": "充電スポットのちょっとしたコツ"
+      },
+      "bodyI18n": {
+        "zh": "App 裡的站點留言開放一個多月，已經有 112 位 Kwhit 車友在 182 座站留下 225 則留言。\n\n最常見的一句是「好充」，但更有用的是只有到過現場才知道的事：\n📍 嘉義交流道 U-Power\n　　💬 好充，旁邊還有雞肉飯\n📍 埔里日月町\n　　💬 先右轉再迴轉比較好進\n📍 新店央北超級綠洲\n　　💬 上午螢幕看不清楚\n\n去過的話，到附近充電的站點頁留一句，下一位就能少踩一次坑。",
+        "en": "Station comments have been open for just over a month: 112 Kwhit drivers have left 225 comments at 182 stations.\n\nThe most common one is \"Good charge\", but the most useful are the things you only learn on site:\n📍 Chiayi Interchange U-Power\n　　💬 Charges fine, and there's chicken rice next door\n📍 Puli Riyueting\n　　💬 Turn right, then U-turn — easier to get in\n📍 Xindian Yangbei Super Oasis\n　　💬 Screen is hard to read in the morning\n\nBeen somewhere? Leave a line on the station page so the next driver avoids the same trap.",
+        "ja": "スポットのコメント機能を公開して1か月ほどで、112人の Kwhit ユーザーが182か所のスポットに225件のコメントを残しました。\n\nいちばん多いのは「充電しやすい」ですが、本当に役立つのは現地に行かないと分からないことです：\n📍 嘉義インター U-Power\n　　💬 快適。隣に鶏肉飯の店あり\n📍 埔里 日月町\n　　💬 右折してからUターンすると入りやすい\n📍 新店 央北スーパーオアシス\n　　💬 午前中は画面が見えにくい\n\n行ったことがあるスポットなら、スポットのページに一言残してください。次の人が同じ失敗をせずに済みます。"
       }
     },
     {
@@ -32,6 +42,16 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "截圖記帳，截這一頁最準",
+        "en": "Screenshot this page for the best results",
+        "ja": "このページのスクリーンショットがいちばん正確"
+      },
+      "bodyI18n": {
+        "zh": "各家充電 App 的明細頁長得不一樣。我們整理了 Tesla、U-POWER、EVOASIS、EVALUE、星舟快充、特爾電力、電小二、evbar、蝦趴該截哪一頁、對準哪些欄位，截完分享給 Kwhit，時間、度數和金額就自動帶入。點這則看完整教學。",
+        "en": "Every charging app's receipt page looks different. We put together which page to capture and which fields to frame for Tesla, U-POWER, EVOASIS, EVALUE, Star Charge, Taiwan Power Charge, Dian Xiao Er, evbar and Xiapa. Share the screenshot with Kwhit and the time, kWh and cost fill in automatically. Tap to see the full guide.",
+        "ja": "充電アプリごとに明細ページの見た目が違います。Tesla、U-POWER、EVOASIS、EVALUE、星舟快充、特爾電力、電小二、evbar、蝦趴について、どのページのどの項目を撮ればよいかをまとめました。撮って Kwhit に共有すれば、時刻・電力量・金額が自動で入力されます。タップすると詳しいガイドを表示します。"
       }
     },
     {
@@ -48,6 +68,16 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "只連 Tesla 還不夠！",
+        "en": "Linking Tesla isn't enough!",
+        "ja": "Tesla を連携するだけでは不十分です！"
+      },
+      "bodyI18n": {
+        "zh": "Pro 會員注意！只連結 Tesla 還不會自動記錄充電喔！請到個人中心 →「Tesla 連結」，開啟「自動記錄充電」，超充直接存、家充自動估費。已經開了就不用理這則喔！",
+        "en": "Pro members: linking Tesla alone does not log charges automatically. Go to Profile → \"Tesla\" and turn on \"Auto recording\" — Supercharger sessions save directly and home charging is priced automatically. Already on? You can ignore this.",
+        "ja": "Pro 会員の方へ：Tesla を連携しただけでは充電は自動記録されません。マイページ →「Tesla 連携」で「充電を自動記録」をオンにしてください。スーパーチャージャーはそのまま保存、自宅充電は料金を自動で見積もります。すでにオンなら、このお知らせは気にしなくて大丈夫です。"
       }
     },
     {
@@ -64,6 +94,16 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "你是設施小幫手嗎？",
+        "en": "Are you a facility helper?",
+        "ja": "設備レポートに協力しませんか？"
+      },
+      "bodyI18n": {
+        "zh": "徵求協助回報站點設施。達成「設施幫手」銅／銀／金成就，各送一個月展期會員，最多可領三個月。請截圖成就並私訊粉絲團領取。",
+        "en": "We're looking for help reporting station facilities. Earn the Bronze, Silver or Gold \"Facility helper\" achievement and get one extra month of membership for each — up to three months. Screenshot the achievement and message our Facebook page to claim it.",
+        "ja": "スポットの設備レポートにご協力ください。「施設ヘルパー」の銅・銀・金の実績を達成するごとに会員期間を1か月延長、最大3か月まで受け取れます。実績のスクリーンショットを Facebook ページにメッセージで送ってください。"
       }
     },
     {
@@ -80,6 +120,16 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "資料更新說明",
+        "en": "About data updates",
+        "ja": "データ更新のお知らせ"
+      },
+      "bodyI18n": {
+        "zh": "站點、充電商、車款之後改在 Threads 發布，方便你一次看完最新資訊。若缺資料或異常，也歡迎留言告訴我們。",
+        "en": "Station, operator and vehicle updates are now posted on Threads, so you can see everything new in one place. If something is missing or wrong, leave us a comment there.",
+        "ja": "スポット・充電事業者・車種の更新は今後 Threads で発表します。最新情報をまとめて確認できます。情報の不足や誤りがあれば、コメントでお知らせください。"
       }
     },
     {
@@ -96,6 +146,16 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "分享照片就能記帳",
+        "en": "Log a charge by sharing a photo",
+        "ja": "写真を共有するだけで記録"
+      },
+      "bodyI18n": {
+        "zh": "充電完成後截圖，用系統分享選 Kwhit，比再進 App 挑圖更快。省掉來回切換，幾秒就能進確認頁完成紀錄。",
+        "en": "After charging, take a screenshot and share it to Kwhit from the system share sheet. It's faster than opening the app and picking the image — you're on the confirm page in seconds.",
+        "ja": "充電が終わったらスクリーンショットを撮り、システムの共有メニューから Kwhit を選んでください。アプリを開いて画像を選ぶより速く、数秒で確認画面に進めます。"
       }
     },
     {
@@ -112,6 +172,16 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "Kwhit 社群小結",
+        "en": "Kwhit community recap",
+        "ja": "Kwhit コミュニティのまとめ"
+      },
+      "bodyI18n": {
+        "zh": "謝謝大家一路回報缺站、缺車、電價與用車數據。\n\n📍 充電站點目錄\n・超過 1,000 個站點\n・約 40 家營運商\n\n🙌 社群回報缺站\n・約 200 筆回報\n・約 150 筆已納入目錄\n\n🚙 車款目錄\n・300 款車／19 個品牌\n\n📊 站點與電價貢獻\n・約 280 位車友\n・約 4,000 筆站點貢獻、約 5,000 筆電價樣本\n\n🔋 用車基準（匿名）\n・約 50 款車有社群基準\n・約 180 筆匿名用車樣本\n\n下一站缺了、車款少了，都歡迎在 App 裡回報。",
+        "en": "Thanks for reporting missing stations, missing vehicles, prices and driving data.\n\n📍 Station catalog\n・More than 1,000 stations\n・About 40 operators\n\n🙌 Missing stations reported by the community\n・About 200 reports\n・About 150 added to the catalog\n\n🚙 Vehicle catalog\n・300 models from 19 brands\n\n📊 Station and price contributions\n・About 280 drivers\n・About 4,000 station contributions and 5,000 price samples\n\n🔋 Driving benchmarks (anonymous)\n・Community benchmarks for about 50 models\n・About 180 anonymous driving samples\n\nIf a station or model is missing, report it in the app.",
+        "ja": "不足しているスポットや車種、電気料金や走行データの報告をありがとうございます。\n\n📍 充電スポットのカタログ\n・1,000か所以上\n・約40の事業者\n\n🙌 コミュニティからの未登録スポット報告\n・約200件\n・約150件をカタログに追加\n\n🚙 車種カタログ\n・19ブランド・300車種\n\n📊 スポットと料金の投稿\n・約280人\n・スポット投稿 約4,000件、料金サンプル 約5,000件\n\n🔋 走行の基準値（匿名）\n・約50車種にコミュニティの基準値\n・匿名の走行サンプル 約180件\n\nスポットや車種が足りなければ、アプリから報告してください。"
       }
     },
     {
@@ -128,6 +198,16 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "追蹤 Kwhit IG",
+        "en": "Follow Kwhit on Instagram",
+        "ja": "Kwhit の Instagram をフォロー"
+      },
+      "bodyI18n": {
+        "zh": "最新充電小技巧、App 更新與使用心得都會放在這裡，歡迎追蹤。",
+        "en": "Charging tips, app updates and stories from drivers — follow us there.",
+        "ja": "充電のコツやアプリの更新情報、使い方のヒントを発信しています。ぜひフォローしてください。"
       }
     },
     {
@@ -144,12 +224,32 @@
         "countries": [
           "TW"
         ]
+      },
+      "titleI18n": {
+        "zh": "喜歡 Kwhit 嗎？",
+        "en": "Enjoying Kwhit?",
+        "ja": "Kwhit を気に入っていただけましたか？"
+      },
+      "bodyI18n": {
+        "zh": "若記帳有幫到你，到 Google Play 給個評價會對我們很有幫助。",
+        "en": "If Kwhit helps you keep track, a rating on Google Play helps us a lot.",
+        "ja": "記録に役立っているなら、Google Play で評価していただけるととても励みになります。"
       }
     }
   ],
   "versionTour": {
     "latestVersion": "1.3.2",
     "title": "Kwhit 1.3.2 更新",
-    "content": "• 附近地圖可放大全螢幕，移動就能搜尋這一區\n• 充電通知會顯示充電功率和預估完成時間\n• 首次匯入有截圖教學，辨識更多業者\n• 目的地充電等不到帳單時，可自己填金額或關閉"
+    "content": "• 附近地圖可放大全螢幕，移動就能搜尋這一區\n• 充電通知會顯示充電功率和預估完成時間\n• 首次匯入有截圖教學，辨識更多業者\n• 目的地充電等不到帳單時，可自己填金額或關閉",
+    "titleI18n": {
+      "zh": "Kwhit 1.3.2 更新",
+      "en": "What's new in Kwhit 1.3.2",
+      "ja": "Kwhit 1.3.2 の新機能"
+    },
+    "contentI18n": {
+      "zh": "• 附近地圖可放大全螢幕，移動就能搜尋這一區\n• 充電通知會顯示充電功率和預估完成時間\n• 首次匯入有截圖教學，辨識更多業者\n• 目的地充電等不到帳單時，可自己填金額或關閉",
+      "en": "• Full-screen nearby map, search as you move\n• Charging power and finish time in the charging notification\n• Screenshot guide for first import, more operators\n• Destination Charging bill not coming? Enter the amount yourself or dismiss it",
+      "ja": "• 周辺マップを全画面に。動かすとそのエリアを検索\n• 充電通知に充電出力と完了予定時刻\n• 初回取り込みのガイドを追加。対応事業者も拡大\n• 目的地充電の請求が届かないときは、金額を自分で入力するか閉じられます"
+    }
   }
 }
