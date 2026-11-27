@@ -1,7 +1,23 @@
 {
-  "version": 54,
-  "updatedAt": "2026-11-25",
+  "version": 55,
+  "updatedAt": "2026-11-27",
   "messages": [
+    {
+      "id": "20261127-brand-label",
+      "title": "站點品牌改照現場充電商標示",
+      "body": "從下一版 App 開始，站點會依現場實際的充電商標示品牌，不再看你用哪個 App 啟動或付款。\n\n這次會調整：\n・好市多等原本標 USPACE 的站，改成 MyCharge\n・「星舟x城市車旅」的站，改成星舟\n・EVOASIS 漫遊的站，改回合作品牌（EVAPE、區快充、iCHARGING、EVEZ）\n\n站點本身不變，留言和設施資料都會保留。之後也會陸續註記各站可以用哪些 App 啟動付款。",
+      "url": null,
+      "imageURL": "https://raw.githubusercontent.com/talk812/appMessages/main/images/20261127-brand-label.jpg",
+      "imageName": null,
+      "publishedAt": "2026-11-27T02:11:58Z",
+      "pinned": false,
+      "popup": true,
+      "audience": {
+        "countries": [
+          "TW"
+        ]
+      }
+    },
     {
       "id": "20261123-station-comments",
       "title": "充電站的小撇步",
